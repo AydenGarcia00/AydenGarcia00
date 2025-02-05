@@ -1,4 +1,4 @@
-## Hi there this is a little bit of information about myself👋
+## Hi, this is a little bit of information about myself👋
 
 <!--
 **AydenGarcia00/AydenGarcia00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
